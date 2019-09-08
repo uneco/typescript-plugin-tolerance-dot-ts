@@ -1,0 +1,23 @@
+{
+  "name": "typescript-plugin-tolerance-dot-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AOKI Yuuto <aoki@u-ne.co> (https://u-ne.co)",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.13.0",
+    "@typescript-eslint/eslint-plugin-tslint": "^1.13.0",
+    "@typescript-eslint/parser": "^1.13.0",
+    "@typescript-eslint/typescript-estree": "^1.13.0",
+    "eslint": "^6.3.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-unicorn": "^10.0.0",
+    "eslint-plugin-wix-editor": "^3.0.0",
+    "typescript": "^3.6.2"
+  }
+}
